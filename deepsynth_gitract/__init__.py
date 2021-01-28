@@ -1,0 +1,2 @@
+from deepsynth_gitract.deepsynth_gitract import generate
+from deepsynth_gitract.deepsynth_gitract import generate_interpolation
