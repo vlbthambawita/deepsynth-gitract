@@ -8,10 +8,10 @@ setuptools.setup(
     version="0.0.1",
     author="Vajira Thambawita",
     author_email="vlbthambawita@gmail.com",
-    description="Deepsynth gastrointestinal tract image generator.",
+    description="Pyramid Focus Augmentation: Medical Image Segmentation with Step Wise Focus",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/vlbthambawita/deepsynth-gitract",
+    url="https://github.com/vlbthambawita/pyra-pytorch",
     packages=setuptools.find_packages(),
     include_package_data=True,
     classifiers=[
@@ -27,6 +27,7 @@ setuptools.setup(
         'pandas',
         'pathlib',
         'stylegan2_pytorch',
+        
 
   ],
 )

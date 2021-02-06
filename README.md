@@ -40,7 +40,7 @@ deepsynth_gitract.generate(name, result_dir, checkpoint_dir, num_img_per_tile, n
 ### Run on GPU - to generate interpolations between random points
 
 ```python
-deepsynth_gitract. generate_interpolation(name, result_dir, checkpoint_dir, num_img_per_tile, num_of_outputs, num_of_steps_to_interpolate, save_frames, trunc_psi=0.75):
+deepsynth_gitract.generate_interpolation(name, result_dir, checkpoint_dir, num_img_per_tile, num_of_outputs, num_of_steps_to_interpolate, save_frames, trunc_psi=0.75):
     """ Generate deepsynth Gastrointestinal tract images.
 
     Keyword arguments:
