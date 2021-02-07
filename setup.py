@@ -8,10 +8,10 @@ setuptools.setup(
     version="0.0.1",
     author="Vajira Thambawita",
     author_email="vlbthambawita@gmail.com",
-    description="Pyramid Focus Augmentation: Medical Image Segmentation with Step Wise Focus",
+    description="Generating synthetic GI tract images using Stylegan2.",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/vlbthambawita/pyra-pytorch",
+    url="https://github.com/vlbthambawita/deepsynth-gitract",
     packages=setuptools.find_packages(),
     include_package_data=True,
     classifiers=[
